@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @traversrhodes127
+- 👋 Hi, I’m @joidelyl
 - 👀 I’m interested in gaming, sports, sports psychology, psychology and healthcare
 - 🌱 I’m currently learning to get better at Pandas, Python and SQL
 - 😄 Pronouns: she/her
